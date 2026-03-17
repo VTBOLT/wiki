@@ -1,6 +1,6 @@
 # Bolt Wiki Repository
 
-This is the repo for the wiki hosted at [vtbolt.github.io/wiki/].
+This is the repo for the wiki hosted at [vtbolt.github.io/wiki/](vtbolt.github.io/wiki/).
 
 ## Editing
 
